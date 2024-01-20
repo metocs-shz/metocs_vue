@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0be7b8b1-3c6f-4432-9a91-aea509ec0d79" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/metocs_admin/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metocs_admin/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metocs_admin/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metocs_admin/.eslintrc.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/metocs_admin/.eslintrc.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metocs_admin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/metocs_admin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metocs_admin/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/metocs_admin/.vscode/extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metocs_admin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/metocs_admin/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metocs_admin/env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/metocs_admin/env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metocs_admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/metocs_admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metocs_admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/metocs_admin/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metocs_admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/metocs_admin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metocs_admin/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/metocs_admin/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metocs_admin/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/metocs_admin/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metocs_admin/tsconfig.node.json" beforeDir="false" afterPath="$PROJECT_DIR$/metocs_admin/tsconfig.node.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metocs_admin/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/metocs_admin/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bCqcfdT3T4lZKADMr4PJIyYIZE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/metocs_vue",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "D:\\metocs_vue\\metocs_admin\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "D:\\metocs_vue\\metocs_admin\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0be7b8b1-3c6f-4432-9a91-aea509ec0d79" name="更改" comment="" />
+      <created>1705729489850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705729489850</updated>
+      <workItem from="1705729490931" duration="474000" />
+      <workItem from="1705730038486" duration="551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
