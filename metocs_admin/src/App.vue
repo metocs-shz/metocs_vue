@@ -1,19 +1,16 @@
 
-
-
-
-
 <template>
   <div class="hello">
-    <h1>Hello World Vue !</h1>
+    <person/>
   </div>
-
 </template>
 
 
 <script lang="ts">
+import Person from "@/components/Person.vue";
 export default {
-  name: 'app'
+  name: 'app',
+  components: {Person}
 }
 
 </script>
